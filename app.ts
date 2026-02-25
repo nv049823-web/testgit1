@@ -1,1 +1,5 @@
-console.log("ts")
+console.log("ts");
+let a:number = 23;
+console.log(a)
+
+
